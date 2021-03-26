@@ -11,7 +11,7 @@ Count the number of trees using satellite Images with U-Net
 1. Rasterio (https://anaconda.org/conda-forge/rasterio)  
 2. Tifffle (https://anaconda.org/conda-forge/tifffile)  
 3. Pillow  (https://anaconda.org/anaconda/pillow)  
-4. DetecTree  
+4. DetecTree  (https://deepforest.readthedocs.io/en/latest/)
 
 
 ## Methodologies for Tree Count Using Aerial Images   
