@@ -19,4 +19,8 @@ Count the number of trees using satellite Images with U-Net
 2. Deep Forest(https://github.com/weecology/DeepForest)  
 3. Hybrid method involving Faster R-CNN, RolPool, RPN, Softmax (https://paperswithcode.com/paper/deep-learning-based-automated-palm-tree)  
 
+## Implementation Details  
 
+## 1. Results with U-Net for Tree Count  
+## 2. Results with Deep Forest for Tree Count    
+## 3. Results with Hybrid Model for Tree Count    
