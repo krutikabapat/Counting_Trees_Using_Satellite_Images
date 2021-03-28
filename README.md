@@ -23,4 +23,10 @@ Count the number of trees using satellite Images with U-Net
 
 ### 1. Results with U-Net for Tree Count  
 ### 2. Results with Deep Forest for Tree Count    
-### 3. Results with Hybrid Model for Tree Count    
+### 3. Results with Hybrid Model for Tree Count   
+
+## Common Errors and scope for improvement   
+
+1. Common errors while using DeepForest Library (https://deepforest.readthedocs.io/en/latest/FAQ.html#the-plotted-image-looks-wrong-the-trees-are-blue)  
+2. Counting of trees using CSR-Net with different dilation rates (https://arxiv.org/abs/1802.10062).    
+3. 
