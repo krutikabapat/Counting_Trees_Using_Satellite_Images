@@ -21,6 +21,6 @@ Count the number of trees using satellite Images with U-Net
 
 ## Implementation Details  
 
-## 1. Results with U-Net for Tree Count  
-## 2. Results with Deep Forest for Tree Count    
-## 3. Results with Hybrid Model for Tree Count    
+### 1. Results with U-Net for Tree Count  
+### 2. Results with Deep Forest for Tree Count    
+### 3. Results with Hybrid Model for Tree Count    
