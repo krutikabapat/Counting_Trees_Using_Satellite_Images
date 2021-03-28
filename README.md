@@ -33,6 +33,7 @@ Count the number of trees using satellite Images with U-Net
 ## Common Errors and scope for improvement   
 
 1. Common errors while using DeepForest Library (https://deepforest.readthedocs.io/en/latest/FAQ.html#the-plotted-image-looks-wrong-the-trees-are-blue)  
-2. Counting of trees using CSR-Net with different dilation rates (https://arxiv.org/abs/1802.10062).    
+2. Implement Counting of trees using CSR-Net with different dilation rates (https://arxiv.org/abs/1802.10062).   
+3. Implement Hybrid method involving Faster R-CNN, RolPool, RPN, Softmax (https://paperswithcode.com/paper/deep-learning-based-automated-palm-tree)     
 
 
