@@ -27,7 +27,8 @@ Count the number of trees using satellite Images with U-Net
 ![ScreenShot](https://github.com/krutikabapat/Counting_Trees_Using_Satellite_Images/blob/main/Results/Deep_forest.png)  
 ![ScreenShot](https://github.com/krutikabapat/Counting_Trees_Using_Satellite_Images/blob/main/Results/Deep_forest2.png)    
 
-### 3. Results with Hybrid Model for Tree Count   
+### 3. Results with PyCrown    
+![Screenshot] (https://github.com/krutikabapat/Counting_Trees_Using_Satellite_Images/blob/main/Results/PyCrown.png)    
 
 ## Common Errors and scope for improvement   
 
