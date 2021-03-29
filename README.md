@@ -1,5 +1,5 @@
 # Counting_Trees_Using_Satellite_Images
-Count the number of trees using satellite Images with U-Net
+Count the number of trees using satellite Images with different techniques
 
 ## Important Geo-Spatial Datasets  
 1. Border Fence Mexico (https://data.world/carlvlewis/border-fence-boundaries-u-s-mexico)  
